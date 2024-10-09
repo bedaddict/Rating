@@ -1,2 +1,2 @@
 # Rating
-Penilaian presentasi Kelompok Satu.
+Penilaian Presentasi Kelompok Satu.
